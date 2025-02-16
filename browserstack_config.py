@@ -1,8 +1,0 @@
-APPIUM_SERVER = 'http://<username>:<key>@hub.browserstack.com/wd/hub'
-APPIUM_PLATFORM_VERSION = '9.0'
-APPIUM_PLATFORMNAME = 'ANDROID'
-APPIUM_DEVICE_NAME = 'OnePlus 7'
-APPIUM_PACKAGE_NAME = 'com.android.chrome'
-APPIUM_ACTIVITY_NAME = 'com.google.android.apps.chrome.Main'
-APPIUM_APP = 'bs://<app-key>'
-APPIUM_AUTOMATION_NAME = 'uiautomator2'
